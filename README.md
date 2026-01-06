@@ -3,6 +3,8 @@
 📌 Project Overview
 This project applies machine learning classification models to predict the compatibility of electrochemical material systems using physicochemical properties, with a special focus on the dielectric constant. The goal is to support material screening and system design in energy-related electrochemical applications.
 🏆 Presented on 1st International Conference on Science and Humanities for Sustainable Development (ICSHSD- 2025), DUET (Poster Presentation)
+![Uploading image.png…]()
+
 
 👤 Author
 Saidul Islam | MS Research Fellow | Machine Learning & Chemometrics Enthusiast | M.Sc. in Inorganic Chemistry | Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200
@@ -25,10 +27,8 @@ Validated using 7-fold cross-validation
 Evaluated on an 80:20 train–test split
 
 📊 Key Results
-Model	Accuracy	F1-Score	AU-ROC	Log Loss
-SVM	  95.2%     	0.90	  0.98    	0.116
-RF	  94.9%      	0.90   	0.97     	0.167
-KNN	  89.1%       0.71	  0.92	    0.328
+<img width="875" height="174" alt="image" src="https://github.com/user-attachments/assets/bbe42750-342e-4cec-be56-c1560bdab02a" />
+
 
 ✔ SVM outperformed all models, showing strong generalization and low bias.
 
