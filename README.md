@@ -3,7 +3,8 @@
 📌 Project Overview
 This project applies machine learning classification models to predict the compatibility of electrochemical material systems using physicochemical properties, with a special focus on the dielectric constant. The goal is to support material screening and system design in energy-related electrochemical applications.
 🏆 Presented on 1st International Conference on Science and Humanities for Sustainable Development (ICSHSD- 2025), DUET (Poster Presentation)
-![Uploading image.png…]()
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/8e8e6671-e51b-440b-912e-65e2a2742233" />
+
 
 
 
@@ -28,7 +29,8 @@ Validated using 7-fold cross-validation
 Evaluated on an 80:20 train–test split
 
 📊 Key Results
-![Uploading image.png…]()
+<img width="862" height="141" alt="image" src="https://github.com/user-attachments/assets/27559ebd-9ef6-4b54-b2a1-21ef357902a7" />
+
 
 
 
